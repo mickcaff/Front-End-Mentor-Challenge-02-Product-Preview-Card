@@ -8,7 +8,7 @@ This is a solution to the [Product preview card component challenge on Frontend 
   - [Table of contents](#table-of-contents)
   - [Overview](#overview)
     - [The challenge](#the-challenge)
-    - [Screenshot](#screenshot)
+    - [Solution Screenshots](#solution-screenshots)
     - [Links](#links)
   - [My process](#my-process)
     - [Built with](#built-with)
@@ -25,7 +25,7 @@ Users should be able to:
 
 - View the optimal layout depending on their device's screen size
 
-### Screenshot
+### Solution Screenshots
 
 Desktop View
 
@@ -55,9 +55,9 @@ This was my second Front End Mentor challenge.
 
 The most challenging part of this assignment was getting the desktop view image to take up exactly half of the card. 
 
-- I learnt that you can use `overflow: hidden;` on the parent container to hide any small overlows.
+- I learnt that you can use `overflow: hidden;` on the parent container to hide any small overflows.
 
-- I then found it easier to make the `width` and `height` of the `image container` and `information container` exactly the same, then simply use flexbox, with flex direction set to row. This resulted in both the two halves being exactly half.
+- I then found it easier to make the `width` and `height` of the `image container` and `information container` exactly the same, then simply use flexbox, with flex-direction set to row. This resulted in both halves being exactly the same.
 
 
 ### Continued development
@@ -68,7 +68,7 @@ The most challenging part of this assignment was getting the desktop view image 
 
 ### Useful resources
 
-- [MDN Docs CSS Overflow example](https://developer.mozilla.org/en-US/docs/Web/CSS/overflow) - I refered to this to help my understanding of `overflow`.
+- [MDN Docs CSS Overflow example](https://developer.mozilla.org/en-US/docs/Web/CSS/overflow) - I referred to this to help my understanding of `overflow`.
 
 ## Author
 

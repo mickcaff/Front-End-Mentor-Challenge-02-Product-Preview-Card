@@ -2,14 +2,18 @@
 
 This is a solution to the [Product preview card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/product-preview-card-component-GO7UmttRfa). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
+### Links
+
+- My Solution Live Site URL: [https://peppy-chaja-98b420.netlify.app](https://peppy-chaja-98b420.netlify.app)
+
 ## Table of contents
 
 - [Frontend Mentor - Product preview card component solution](#frontend-mentor---product-preview-card-component-solution)
+    - [Links](#links)
   - [Table of contents](#table-of-contents)
   - [Overview](#overview)
     - [The challenge](#the-challenge)
     - [Solution Screenshots](#solution-screenshots)
-    - [Links](#links)
   - [My process](#my-process)
     - [Built with](#built-with)
     - [What I learned](#what-i-learned)
@@ -36,10 +40,6 @@ Mobile View
 <img src="./images/final-mobile.png" alt="Mobile view" width="200px">
 
 
-### Links
-
-- Solution URL: [https://www.frontendmentor.io/challenges/product-preview-card-component-GO7UmttRfa](https://www.frontendmentor.io/challenges/product-preview-card-component-GO7UmttRfa)
-- Live Site URL: [https://peppy-chaja-98b420.netlify.app](https://peppy-chaja-98b420.netlify.app)
 
 ## My process
 
